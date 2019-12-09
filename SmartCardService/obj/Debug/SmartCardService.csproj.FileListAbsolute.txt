@@ -1,0 +1,6 @@
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardService\bin\Debug\SmartCardService.exe.config
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardService\bin\Debug\SmartCardService.exe
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardService\bin\Debug\SmartCardService.pdb
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardService\obj\Debug\SmartCardService.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardService\obj\Debug\SmartCardService.exe
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardService\obj\Debug\SmartCardService.pdb

@@ -1,0 +1,6 @@
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Manager\bin\Debug\Manager.dll
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Manager\bin\Debug\Manager.pdb
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Manager\obj\Debug\Manager.dll
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Manager\obj\Debug\Manager.pdb

@@ -1,0 +1,6 @@
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Client\bin\Debug\Client.exe.config
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Client\bin\Debug\Client.exe
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Client\bin\Debug\Client.pdb
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Client\obj\Debug\Client.exe
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Client\obj\Debug\Client.pdb

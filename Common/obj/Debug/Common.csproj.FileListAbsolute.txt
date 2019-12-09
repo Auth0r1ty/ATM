@@ -1,0 +1,6 @@
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Common\bin\Debug\Common.dll
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Common\bin\Debug\Common.pdb
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Common\obj\Debug\Common.dll
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\Common\obj\Debug\Common.pdb

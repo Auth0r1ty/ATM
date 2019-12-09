@@ -1,0 +1,6 @@
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardBackup\bin\Debug\SmartCardBackup.exe.config
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardBackup\bin\Debug\SmartCardBackup.exe
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardBackup\bin\Debug\SmartCardBackup.pdb
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardBackup\obj\Debug\SmartCardBackup.csproj.CoreCompileInputs.cache
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardBackup\obj\Debug\SmartCardBackup.exe
+C:\Users\sale\Desktop\4. Godina\Security\Projekat\ATM\SmartCardBackup\obj\Debug\SmartCardBackup.pdb
